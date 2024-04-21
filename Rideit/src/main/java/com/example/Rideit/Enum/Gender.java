@@ -1,2 +1,7 @@
-package com.example.Rideit.Enum;public enum Gender {
+package com.example.Rideit.Enum;
+
+public enum Gender {
+    MALE,
+    FEMALE,
+    OTHER
 }
